@@ -1,0 +1,46 @@
+# Arquivos de bytecode Python
+__pycache__/
+__pycache__
+
+# Ambientes virtuais
+venv/
+env/
+*.env
+apienv
+apienv/
+
+# Arquivos de log e saída
+*.log
+*.pot
+*.pyc
+
+# Arquivos de backup e caches diversos
+*~
+*.swp
+.cache/
+.idea/
+
+# Arquivos de build e distribuição
+*.egg-info/
+dist/
+build/
+
+# Arquivos gerados por ferramentas
+.coverage
+htmlcov/
+
+# Arquivos de configuração pessoal
+.idea/
+.vscode/
+
+# Arquivos específicos de editor
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Outros arquivos temporários
+*.bak
